@@ -262,6 +262,7 @@
 - [Experius Codeblog](https://codeblog.experius.nl)
 - [Nwdthemes](https://nwdthemes.com/blog/)
 - [Rocket Web](https://rocketweb.com/blog)
+- [Mag-Manager](https://www.mag-manager.com/magento-2-tutorials/)
 
 #### Other
 
@@ -351,6 +352,7 @@
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
 - [FireBear Studio](https://firebearstudio.com/)
+- [Magento Store Manager](https://www.mag-manager.com/)
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
