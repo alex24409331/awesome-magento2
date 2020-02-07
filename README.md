@@ -342,6 +342,7 @@
 - [Magemail](https://magemail.co/)
 - [MagePal](https://packagist.org/packages/magepal/)
 - [Modulwerft](https://www.modulwerft.com/)
+- [Magento Store Manager](https://www.mag-manager.com/)
 - [Paradox Labs](https://www.paradoxlabs.com/)
 - [The Extension Lab](https://github.com/theextensionlab/)
 - [Sweet Tooth](https://www.sweettoothrewards.com/)
@@ -351,6 +352,7 @@
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
 - [FireBear Studio](https://firebearstudio.com/)
+
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
